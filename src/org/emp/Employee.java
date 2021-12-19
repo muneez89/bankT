@@ -2,8 +2,7 @@ package org.emp;
 
 public class Employee {
 	
-	private void empID() {	
-		System.out.println("jeeva edit ");
+	private void empID() {		
 System.out.println("Employee Details");
 	}
 	
